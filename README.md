@@ -1,5 +1,6 @@
 # CreatewithCode-prototype1-fly
-Prototype 1 altered with personal changes
-Scripted in C#
-Assets from Unity asset store
-Part of create-with-code learn program
+3D game made in Unity.
+Prototype 1, in progress.
+Scripted in C#.
+Assets from Unity asset store.
+Part of create-with-code learn program.
